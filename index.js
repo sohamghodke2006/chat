@@ -24,7 +24,7 @@ async function main() {
 //     from: "neha",
 //     to: "priya",
 //     msg: "send me notes",
-//     created_at: new Date()
+//     created_at: new Date()    // UTC
 // });
 // chat1.save()
 //     .then((res) => {
